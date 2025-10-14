@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can use for your POS (Point of Sale) system built with **Spring Boot**, **React.js**, **Razorpay**, and **shadcn/ui** 👇
-
----
-
 ## 🧾 Point of Sale (POS) System
 
 A modern, full-stack **POS (Point of Sale) System** built using **Spring Boot** for the backend and **React.js** (with **shadcn/ui**) for the frontend.
