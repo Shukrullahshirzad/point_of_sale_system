@@ -158,5 +158,5 @@ VITE_RAZORPAY_KEY_ID=YOUR_KEY_ID
 ### 👨‍💻 Author
 
 **Your Name**
-📧 [your.email@example.com](mailto:your.email@example.com)
+📧 [shukrullah.shirzad.779@gmail.com](mailto:shukrullah.shirzad.779@gmail.com)
 🔗 [LinkedIn](#) | [GitHub](#)
