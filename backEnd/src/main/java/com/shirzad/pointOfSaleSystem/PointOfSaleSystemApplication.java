@@ -1,4 +1,4 @@
-package com.shirzad.point.of.sale.system;
+package com.shirzad.pointOfSaleSystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
